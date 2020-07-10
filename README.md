@@ -1,5 +1,11 @@
 ## Welcome to Kishore Sriramula
 
+Hi friends this is my page and my world . 
+
+Welcome to kify world.
+
+I talk about SAP ABAP 
+
 You can use the [editor on GitHub](https://github.com/kishoressk/kishoressk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
